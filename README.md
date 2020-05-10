@@ -1,2 +1,1 @@
-# img
-only for my images
+This warehouse is only used as a picture warehouse.
